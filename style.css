@@ -18,3 +18,12 @@ display: flex;
 gap: 40px;
 list-style: none;
 }
+.banner{
+    width: 80%;
+    height: 500px;
+    margin: 0px auto;
+    background: url("https://guangcaiauto.com/wp-content/uploads/2023/12/Changan-DEEPAL-S7-2023-REEV-interior-1.webp") no-repeat center/cover;
+}
+.banner:hover{
+    background: url("https://chinacars.by/wp-content/uploads/2-23.jpg")no-repeat center/cover;
+}
